@@ -6,6 +6,8 @@ I was in the web development team for the organisation as an Intern.
 ## => [Visit website](https://curasia.co.in/)
 <br><br>
 ## SNAPSHOTS:
-![](/src/lineC.png)
+![](/navbar.png)
 <br><br>
-![](/src/barC.png)
+![](/banner.png)
+<br><br>
+![](/services.png)
